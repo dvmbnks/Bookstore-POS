@@ -1,0 +1,11 @@
+- Had to add "Get Type" in all Books and its inheritance because it was needed in Order to determine the type of book
+and determine the pricing. 
+
+- Removed Link from Digital Book, because it seemed inefficent to view that EVERYTIME someone wanted to order/check Digital book.
+
+- Had to add Used_Book() because a 3rd level inheritance wasn't properly initated in project plan.
+In private class, Had to add vectors for the different types of books - which made it more efficent. 
+
+- Remove Book had to be added for each type of Book class. 
+- Removed DATE completely because the logic did not make sense.
+- Generate Recipt had to be removed for Time reasons.

@@ -1,0 +1,50 @@
+The Catcher in the Rye, J.D. Salinger, Fiction,4.5,10,15.99
+To Kill a Mockingbird, Harper Lee, Fiction,4.8,15,12.99
+1984, George Orwell, Dystopian,4.7,3,19.43
+The Great Gatsby, F. Scott Fitzgerald, Fiction,4.6,6,13.75
+Pride and Prejudice, Jane Austen, Romance,4.4,20,11.99
+The Hobbit, J.R.R. Tolkien, Fantasy,4.9,5,17.5
+The Da Vinci Code, Dan Brown, Mystery,4.2,25,16.25
+The Hitchhiker's Guide to the Galaxy, Douglas Adams, Science Fiction,4.3,22,12.75
+Harry Potter and the Sorcerer's Stone, J.K. Rowling, Fantasy,4.8,30,19.99
+The Shining, Stephen King, Horror,4.6,14,15.5
+Brave New World, Aldous Huxley, Dystopian,4.4,18,14.25
+The Lord of the Rings, J.R.R. Tolkien, Fantasy,4.7,28,21.5
+The Chronicles of Narnia, C.S. Lewis, Fantasy,4.5,24,18.99
+Moby-Dick, Herman Melville, Adventure,4.1,12,16.75
+The Road, Cormac McCarthy, Post-apocalyptic,4.6,16,13.99
+The Hunger Games, Suzanne Collins, Dystopian,4.3,22,14.5
+The Alchemist, Paulo Coelho, Fantasy,4.8,20,15.25
+The Girl with the Dragon Tattoo, Stieg Larsson, Mystery,4.4,18,16.99
+The Odyssey, Homer, Epic Poetry,4.7,14,12.5
+The Road Not Taken, Robert Frost, Poetry,4.5,10,9.99
+The Fault in Our Stars, John Green, Romance,4.6,15,11.75
+Frankenstein, Mary Shelley, Gothic,4.2,20,14.99
+Sapiens: A Brief History of Humankind, Yuval Noah Harari, History,4.9,25,20.5
+The Art of War, Sun Tzu, Philosophy,4.7,12,12.99
+The Grapes of Wrath, John Steinbeck, Historical Fiction,4.5,18,15.75
+One Hundred Years of Solitude, Gabriel García Márquez, Magical Realism,4.8,22,17.99
+The Count of Monte Cristo, Alexandre Dumas, Adventure,4.6,20,16.5
+The Scarlet Letter, Nathaniel Hawthorne, Historical Fiction,4.3,15,13.25
+The Kite Runner, Khaled Hosseini, Historical Fiction,4.7,18,14.99
+A Song of Ice and Fire, George R.R. Martin, Fantasy,4.9,30,22.99
+The Picture of Dorian Gray, Oscar Wilde, Gothic,4.5,16,15.5
+The Three Musketeers, Alexandre Dumas, Adventure,4.4,20,14.75
+Wuthering Heights, Emily Brontë, Gothic,4.6,14,13.99
+The Wind in the Willows, Kenneth Grahame, Children's Literature,4.2,12,11.5
+The Iliad, Homer, Epic Poetry,4.7,14,12.99
+The Name of the Wind, Patrick Rothfuss, Fantasy,4.8,25,19.75
+The Big Sleep, Raymond Chandler, Mystery,4.3,18,15.25
+The Jungle Book, Rudyard Kipling, Children's Literature,4.5,15,12.99
+The Color Purple, Alice Walker, Fiction,4.6,20,14.5
+The Diary of a Young Girl, Anne Frank, Biography,4.7,15,13.99
+Fahrenheit 451, Ray Bradbury, Dystopian,4.4,18,14.75
+The Chronicles of Narnia, C.S. Lewis, Fantasy,4.5,24,18.99
+The Sound and the Fury, William Faulkner, Modernist,4.1,14,16.5
+Crime and Punishment, Fyodor Dostoevsky, Psychological Fiction,4.6,20,17.99
+A Tale of Two Cities, Charles Dickens, Historical Fiction,4.5,18,15.99
+The Odyssey, Homer, Epic Poetry,4.7,14,12.5
+The Brothers Karamazov, Fyodor Dostoevsky, Philosophical Fiction,4.5,22,19.5
+Les Misérables, Victor Hugo, Historical Fiction,4.8,26,21.75
+The Stranger, Albert Camus, Philosophical Fiction,4.2,16,14.25
+The Catcher in the Rye, J.D. Salinger, Fiction,4.5,10,15.99
